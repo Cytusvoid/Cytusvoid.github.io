@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 幻想郷
+title: Cytusvoid's 幻想郷
 subtitle: 生如夏花之绚烂，死若秋叶之静美
-description: 击破永世的迷惘，冻结虚无的欲望，在寻求真理的路上，紧握永恒的霞光
+description: Jumping from failure to failure with undiminished enthusiasm is the big secret to success.
 author: Cytusvoid
 language: zh-Hans
 timezone: Asia/Shanghai
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next #alberta #landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
